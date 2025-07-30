@@ -75,7 +75,6 @@ function draw() {
   textSize(20);
   stroke(0);
   fill(37, 235, 120);
-  text("We will customize this text later on in\n the projet to reflect your avatar",0,10);
 
   //Directions for mouse press
   text("Click to see me close my eyes. \nClick again to see me open them",0,325);

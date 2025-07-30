@@ -77,7 +77,8 @@ function draw() {
   fill(37, 235, 120);
 
   //Directions for mouse press
-  text("Click to see me close my eyes. \nClick again to see me open them",0,325);
+  text("Click to see bat an eye. \nClick again to my eye open",15,325);
+  //couldn't use letter w because made text weird
   }
 //functions
 function mousePressed(){
